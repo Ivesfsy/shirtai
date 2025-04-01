@@ -68,10 +68,10 @@ IOS版本：[https://apps.apple.com/us/app/shirtai/id6474819973](https://apps.ap
 
 | 图片 1 (小)                                      | 图片 2 (大)                                      |
 |-------------------------------------------------|-------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3" width="500"> | <img src="https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac" width="400"> |
-| <img src="https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d" width="500"> | <img src="https://github.com/user-attachments/assets/5d1f0111-f6e1-4113-8335-f6e416ee136a" width="400"> |
-| <img src="https://github.com/user-attachments/assets/6362538a-e599-4b5a-b80b-e4905d1766f4" width="500"> | <img src="https://github.com/user-attachments/assets/f2d453b4-3457-47d5-84cb-a1ee5d96663c" width="400"> |
-| <img src="https://github.com/user-attachments/assets/ede1b1bf-1e00-4a31-afbf-fe378a69c57c" width="500"> | <img src="https://github.com/user-attachments/assets/b637f543-bf34-44c2-809a-ac12b87c6acf" width="400"> |
+| <img src="https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3" width="400"> | <img src="https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac" width="400"> |
+| <img src="https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d" width="400"> | <img src="https://github.com/user-attachments/assets/5d1f0111-f6e1-4113-8335-f6e416ee136a" width="400"> |
+| <img src="https://github.com/user-attachments/assets/6362538a-e599-4b5a-b80b-e4905d1766f4" width="400"> | <img src="https://github.com/user-attachments/assets/f2d453b4-3457-47d5-84cb-a1ee5d96663c" width="400"> |
+| <img src="https://github.com/user-attachments/assets/ede1b1bf-1e00-4a31-afbf-fe378a69c57c" width="400"> | <img src="https://github.com/user-attachments/assets/b637f543-bf34-44c2-809a-ac12b87c6acf" width="400"> |
 
 
 
