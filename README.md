@@ -21,8 +21,8 @@ IOS版本：[https://apps.apple.com/us/app/shirtai/id6474819973](https://apps.ap
 
 <table style="width:100%">
 <tr>
-<td style="width:50%"><img src="https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3" style="max-width:100%; height:auto;"></td>
-<td style="width:50%"><img src="https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac" style="max-width:100%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3" style="max-width:60%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac" style="max-width:40%; height:auto;"></td>
 </tr>
 <tr>
 <td style="width:50%"><img src="https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d" style="max-width:100%; height:auto;"></td>
