@@ -2,7 +2,8 @@
 
 ShirtAI是一款集成全球大模型全方位AI产品，集成问答+绘画+视频+PDF对话解析+AI TTS语音等功能！免费无限使用GPT Plus、Claude Pro、Grok Super、Deepseek满血版！
 
-![image]([https://github.com/Ivesfsy/shirtai/assets/97079241/2cf795b0-93a0-4d76-bf9f-3220ca4466ba](https://www.myshirtai.com/wp-content/uploads/2025/03/31f08ba12d8dfdf79adabe39aee9cc7-1.png))
+![image](https://github.com/user-attachments/assets/65a7a392-7bb2-45d2-b848-818335ccc429)
+
 
 网页版：[https://www.myshirtai.com/](https://www.myshirtai.com/)
 
@@ -18,13 +19,11 @@ IOS版本：[https://apps.apple.com/us/app/shirtai/id6474819973](https://apps.ap
 | 5. 插件支持和拓展功能 [（插件用途）](https://docs.blueshirttools.com/qi-ta/cha-jian-jie-shao)    | - AI网络查询：WebBrowser，生活插件：心知天气、王者百科、快递查询，计算插件：Wolfram<br>- AI思维导图（快速AI头脑风暴）<br>- AI对话PDF（基于文档知识库对话） |
 
 
-
-
 | 图片 1                                      | 图片 2                                      |
 |---------------------------------------------|---------------------------------------------|
-| ![绘画功能](https://www.myshirtai.com/wp-content/uploads/2024/07/绘画功能.png) | ![PPT功能1](https://www.myshirtai.com/wp-content/uploads/2024/08/ppt1.png) |
-| ![PPT功能2](https://www.myshirtai.com/wp-content/uploads/2024/08/ppt2.png) | ![官网头图](https://www.myshirtai.com/wp-content/uploads/2024/05/官网头图压缩.jpg) |
-| ![Suno](https://www.myshirtai.com/wp-content/uploads/2024/05/suno.jpg) | ![图生视频](https://www.myshirtai.com/wp-content/uploads/2024/05/图生视频压缩.png) |
-| ![基础功能4](https://www.myshirtai.com/wp-content/uploads/2024/05/基础功能4压缩.png) | ![思维导图](https://www.myshirtai.com/wp-content/uploads/2024/12/思维导图.jpg) |
+| ![image](https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3) | ![image](https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac) |
+| ![image](https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d) | ![image](https://github.com/user-attachments/assets/5d1f0111-f6e1-4113-8335-f6e416ee136a) |
+| ![image](https://github.com/user-attachments/assets/6362538a-e599-4b5a-b80b-e4905d1766f4) | ![image](https://github.com/user-attachments/assets/f2d453b4-3457-47d5-84cb-a1ee5d96663c) |
+| ![image](https://github.com/user-attachments/assets/ede1b1bf-1e00-4a31-afbf-fe378a69c57c) | ![image](https://github.com/user-attachments/assets/b637f543-bf34-44c2-809a-ac12b87c6acf) |
 
 
