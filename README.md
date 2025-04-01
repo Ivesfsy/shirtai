@@ -19,11 +19,24 @@ IOS版本：[https://apps.apple.com/us/app/shirtai/id6474819973](https://apps.ap
 | 5. 插件支持和拓展功能 [（插件用途）](https://docs.blueshirttools.com/qi-ta/cha-jian-jie-shao)    | - AI网络查询：WebBrowser，生活插件：心知天气、王者百科、快递查询，计算插件：Wolfram<br>- AI思维导图（快速AI头脑风暴）<br>- AI对话PDF（基于文档知识库对话） |
 
 
-| 图片 1                                      | 图片 2                                      |
-|---------------------------------------------|---------------------------------------------|
-| ![image](https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3) | ![image](https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac) |
-| ![image](https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d) | ![image](https://github.com/user-attachments/assets/5d1f0111-f6e1-4113-8335-f6e416ee136a) |
-| ![image](https://github.com/user-attachments/assets/6362538a-e599-4b5a-b80b-e4905d1766f4) | ![image](https://github.com/user-attachments/assets/f2d453b4-3457-47d5-84cb-a1ee5d96663c) |
-| ![image](https://github.com/user-attachments/assets/ede1b1bf-1e00-4a31-afbf-fe378a69c57c) | ![image](https://github.com/user-attachments/assets/b637f543-bf34-44c2-809a-ac12b87c6acf) |
+<table style="width:100%">
+<tr>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/cf3c4ba9-a4de-4077-8009-c2d691214ec3" style="max-width:100%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/4960b190-4901-4cf5-9b75-c968ed30c4ac" style="max-width:100%; height:auto;"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/8f157fb9-ddd5-4d54-8a8f-530c0878d39d" style="max-width:100%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/5d1f0111-f6e1-4113-8335-f6e416ee136a" style="max-width:100%; height:auto;"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/6362538a-e599-4b5a-b80b-e4905d1766f4" style="max-width:100%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/f2d453b4-3457-47d5-84cb-a1ee5d96663c" style="max-width:100%; height:auto;"></td>
+</tr>
+<tr>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/ede1b1bf-1e00-4a31-afbf-fe378a69c57c" style="max-width:100%; height:auto;"></td>
+<td style="width:50%"><img src="https://github.com/user-attachments/assets/b637f543-bf34-44c2-809a-ac12b87c6acf" style="max-width:100%; height:auto;"></td>
+</tr>
+</table>
+
 
 
